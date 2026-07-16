@@ -57,7 +57,7 @@ This project analyzes patient throughput, wait times, satisfaction, and departme
         │   Python (EDA)       │
         │ - Data Cleaning      │
         │ - Feature Engineering│
-        │ - Exploratory Analysis│
+        │ - EDA                │
         └──────────┬───────────┘
                    │
                    ▼
@@ -69,9 +69,9 @@ This project analyzes patient throughput, wait times, satisfaction, and departme
                    ▼
         ┌──────────────────────┐
         │ Power BI Data Model  │
-        │ - Relationships       │
-        │ - DAX Measures        │
-        │ - Calculated Columns  │
+        │ - Relationships      │
+        │ - DAX Measures       │
+        │ - Calculated Columns │
         └──────────┬───────────┘
                    │
                    ▼
@@ -85,9 +85,9 @@ This project analyzes patient throughput, wait times, satisfaction, and departme
                    │
                    ▼
         ┌──────────────────────┐
-        │ Case Study Report     │
-        │ - Insights            │
-        │ - Recommendations     │
+        │ Case Study Report    │
+        │ - Insights           │
+        │ - Recommendations    │
         └──────────────────────┘
 
 
