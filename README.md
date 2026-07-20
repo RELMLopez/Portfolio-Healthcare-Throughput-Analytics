@@ -112,8 +112,8 @@ This project analyzes patient throughput, wait times, satisfaction, and departme
 ---
 
 ## 📁 Repository Structure
-healthcare-throughput-analysis/
-│
+healthcare-throughput-analysis/  
+│  
 ├── data/              # Original and cleaned dataset  
 ├── dashboard/         # Power BI .pbix file  
 ├── images/            # Dashboard pages, schema, DAX, filters  
