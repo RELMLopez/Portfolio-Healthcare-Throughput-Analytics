@@ -123,5 +123,5 @@ healthcare-throughput-analysis/
 ---
 
 ## 👨‍💼 About the Analyst
-Robert Lopez
+**Robert Lopez**
 U.S. Marine Corps Veteran • B.S. Biochemistry • M.S. Data Science • M.B.A. Candidate
